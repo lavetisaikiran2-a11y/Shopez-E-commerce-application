@@ -1,1 +1,0 @@
-# Shopez-E-commerce-application
